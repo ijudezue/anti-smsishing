@@ -2,6 +2,6 @@
 In the 'Downloads' tab you can find the package of the modified MMS application.
 
 It contains the original MMS application with the following modifications :
-* new packages beginning by edu.cmu.antismsishing
-* the com.android.ui.ConversionList class have been modified to integrate a new element in the menu and to start the anti-smsishing test.
-* in the res/raw folder, the file gsb.properties has been added
+  * new packages beginning by edu.cmu.antismsishing
+  * the com.android.ui.ConversionList class have been modified to integrate a new element in the menu and to start the anti-smsishing test.
+  * in the res/raw folder, the file gsb.properties has been added
